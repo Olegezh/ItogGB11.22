@@ -1,0 +1,15 @@
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\bin\Debug\net6.0\ItogGB11.22.exe
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\bin\Debug\net6.0\ItogGB11.22.deps.json
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\bin\Debug\net6.0\ItogGB11.22.runtimeconfig.json
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\bin\Debug\net6.0\ItogGB11.22.dll
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\bin\Debug\net6.0\ItogGB11.22.pdb
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.csproj.AssemblyReference.cache
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.AssemblyInfoInputs.cache
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.AssemblyInfo.cs
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.csproj.CoreCompileInputs.cache
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.dll
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\refint\ItogGB11.22.dll
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.pdb
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ItogGB11.22.genruntimeconfig.cache
+D:\!!!Обучение GEEKBrains\ItogGB\ItogGB11.22\obj\Debug\net6.0\ref\ItogGB11.22.dll
